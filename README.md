@@ -1,7 +1,7 @@
 # RedditEmojiBot
 A bot to detect emojis in comments on Reddit. 
 
-REQUIRED: 
+REQUIRED:  
 praw 6.3.1 (https://praw.readthedocs.io/en/latest/ for more info)  
 Python 2.7.15+  
   
